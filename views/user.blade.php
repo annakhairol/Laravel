@@ -1,0 +1,1 @@
+logged in as {{ session()->get('user')->email}} | <a href="/logout">Log Out</a>
